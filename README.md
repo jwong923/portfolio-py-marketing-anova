@@ -1,4 +1,4 @@
-# portfolio-py-marketing-anova
+# Portfolio project: Choosing marketing campigan with A/B test
 
 It is best to view the notebook on Kaggle: https://www.kaggle.com/jenniewong/a-b-test-for-fast-food-industry-by-anova
 
